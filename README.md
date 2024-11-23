@@ -1,2 +1,2 @@
-# -Weather-Detector
+# Weather-Detector
 Weather details 
